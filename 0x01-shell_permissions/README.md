@@ -1,4 +1,4 @@
-objective of the tasks, What do the commands chmod, sudo, su, chown, chgrp do
+What do the commands chmod, sudo, su, chown, chgrp do
 
 Linux file permissions
 
